@@ -1,0 +1,39 @@
+﻿빌드 시작: 2016-07-27 오전 10:00:13
+     1>2 노드의 "E:\Score\Score\Score.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt allSerch.cpp Insert.cpp print.cpp PrintAvg.cpp PrintKor.cpp PrintMath.cpp PrintRank.cpp PrintTotal.cpp load.cpp save.cpp Score.cpp StudentDel.cpp StudentUpdate.cpp
+         allSerch.cpp
+         Insert.cpp
+         print.cpp
+         PrintAvg.cpp
+         PrintKor.cpp
+         PrintMath.cpp
+         PrintRank.cpp
+         PrintTotal.cpp
+         load.cpp
+         save.cpp
+         Score.cpp
+         StudentDel.cpp
+         StudentUpdate.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Score\Release\Score.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Score\Release\Score.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Score\Release\Score.lib" /MACHINE:X86 /SAFESEH Release\allSerch.obj
+         Release\Insert.obj
+         Release\print.obj
+         Release\PrintAvg.obj
+         Release\PrintKor.obj
+         Release\PrintMath.obj
+         Release\PrintRank.obj
+         Release\PrintTotal.obj
+         Release\load.obj
+         Release\save.obj
+         Release\Score.obj
+         Release\StudentDel.obj
+         Release\StudentUpdate.obj
+         코드를 생성하고 있습니다.
+         코드를 생성했습니다.
+         Score.vcxproj -> E:\Score\Release\Score.exe
+     1>"E:\Score\Score\Score.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.99

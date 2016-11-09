@@ -1,0 +1,38 @@
+﻿빌드 시작: 2016-11-09 오후 11:08:42
+     1>2 노드의 "G:\Score\Score\Score.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         D:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt allSerch.cpp Insert.cpp print.cpp PrintAvg.cpp PrintKor.cpp PrintMath.cpp PrintRank.cpp PrintTotal.cpp load.cpp save.cpp Score.cpp StudentDel.cpp StudentUpdate.cpp
+         StudentUpdate.cpp
+         StudentDel.cpp
+         Score.cpp
+         save.cpp
+         load.cpp
+         PrintTotal.cpp
+         PrintRank.cpp
+         PrintMath.cpp
+         PrintKor.cpp
+         PrintAvg.cpp
+         print.cpp
+         Insert.cpp
+         allSerch.cpp
+         코드를 생성하고 있습니다...
+       Link:
+         D:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Score\Debug\Score.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\Score\Debug\Score.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Score\Debug\Score.lib" /MACHINE:X86 Debug\allSerch.obj
+         Debug\Insert.obj
+         Debug\print.obj
+         Debug\PrintAvg.obj
+         Debug\PrintKor.obj
+         Debug\PrintMath.obj
+         Debug\PrintRank.obj
+         Debug\PrintTotal.obj
+         Debug\load.obj
+         Debug\save.obj
+         Debug\Score.obj
+         Debug\StudentDel.obj
+         Debug\StudentUpdate.obj
+         Score.vcxproj -> G:\Score\Debug\Score.exe
+     1>"G:\Score\Score\Score.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:05.80
